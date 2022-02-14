@@ -1,6 +1,6 @@
 ---
-title: "Tobi Burns"
-image: "tobi.jpg"
+title: "Carlos Puma"
+image: "https://scontent.xx.fbcdn.net/v/t1.15752-9/cp0/268055985_305487591626398_3079146768246346879_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=aee45a&_nc_eui2=AeE7wWW1mPIM9ObQaavivn_Ny69MH2ynMQ7Lr0wfbKcxDh4tqiwUsdVPMpxFpkNw70g1ca0PWcxaJ9ial8h8T4MA&_nc_ohc=bxm2h82c4SsAX81S8CN&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.xx&oh=03_AVJYQMdaugxv2uaT9jeQtLMeACYYLeXpW3qy8sdVcPnIcQ&oe=622F4D29"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
